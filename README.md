@@ -1,2 +1,2 @@
-# Mezx
+# MEZX
 Accounting Software
