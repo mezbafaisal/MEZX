@@ -1,7 +1,7 @@
 # MEZX
 **Accounting Software**  
 A software that can find out financial irregularities under seconds.
-Also can verify results on Different Financial and Accounting standards and Methods According to region Laws Taxation and Vat and custom policy.
+Also can verify results on Different Financial and Accounting standards and Methods According to regions Taxation Laws, Vat and custom policies.
 
 Standards And Frameworks
 1. International Financial Reporting Standards (IFRS)
