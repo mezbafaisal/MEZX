@@ -9,7 +9,7 @@ Standards And Frameworks
 3. IFRS S1 and S2 (Developed by the ISSB (International Sustainability Standards Board)
 4. ISA (International Standards on Auditing)
 5. Basel III / IV
-6. FATF 40 RecommendationS
+6. FATF 40 Recommendations
 7. IOSCO Objectives and Principles
 8. G20/OECD Principles
 9. World Bank / UNCITRAL.
